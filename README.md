@@ -41,7 +41,7 @@ My focus is on **automation-first infrastructure, cloud governance, scalability,
 
 ### ☁️ Cloud & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=aws,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
 </p>
 
 ### 🐳 Containers & Orchestration
